@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Hosted Here
+https://next-messenger-835zb9oap-rehankhan21.vercel.app
+
+Demo Account:
+
+email: test@mail.com
+password: 1234
+
 ## Getting Started
 
 First, run the development server:
