@@ -5,8 +5,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Demo Account:
 
-email: test@mail.com
-password: 1234
+email: test@test.com
+password: test
 
 ## Getting Started
 
