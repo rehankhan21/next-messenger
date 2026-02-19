@@ -155,7 +155,7 @@ export default function AuthForm() {
         <div className=" flex gap-2 justify-center text-center mt-6 px-2 text-gray-500">
           {variant === "LOGIN" && (
             <div>
-              Demo Account: <p>Email: test@mail.com</p> <p>Password: 1234</p>
+              Demo Account: <p>Email: test@test.com</p> <p>Password: test</p>
             </div>
           )}
         </div>
